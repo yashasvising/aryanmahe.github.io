@@ -1,0 +1,9 @@
+.top-img {
+    position: absolute;
+    top: 80;
+    right: 0;
+}
+
+ul {
+    line-height: 0;
+}

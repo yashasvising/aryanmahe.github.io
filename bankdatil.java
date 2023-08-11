@@ -31,7 +31,7 @@ class T
         Bankdetail e2=new bankdatil();
         e1.input();
         e2.input();
-        e1.disp();
+    
         e2.disp();
     }
 }
